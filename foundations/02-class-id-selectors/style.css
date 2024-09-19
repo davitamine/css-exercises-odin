@@ -1,0 +1,16 @@
+.paragraph {
+    background-color:#f08080 ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+#id1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+.paragraph.cool {
+    font-size: 24px;
+}
+#id2 {
+    font-size: 24px;
+    background-color: #90ee90;
+    font-weight: bold;
+}
